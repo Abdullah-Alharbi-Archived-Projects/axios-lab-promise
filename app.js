@@ -2,7 +2,7 @@ const unsplash =
   "https://api.unsplash.com/photos/random?client_id=<YOUR_KEY>";
 
 const weather =
-  "https://api.openweathermap.org/data/2.5/weather?q=riyadh&units=metric&APPID=<YOUR_KEY>";
+  "https://api.openweathermap.org/data/2.5/weather?q=riyadh&iso=3166&units=metric&APPID=<YOUR_KEY>";
 
 const forismatic =
   "https://cors-anywhere.herokuapp.com/https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en";
